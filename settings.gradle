@@ -1,0 +1,3 @@
+include 'blog.controller'
+include 'blog.client'
+include 'blog.stand'
